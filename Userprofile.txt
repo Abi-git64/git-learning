@@ -1,1 +1,2 @@
 User name and data of birth
+Address and pincode
